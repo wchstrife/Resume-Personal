@@ -80,7 +80,7 @@ button{
 }
 
 .sub-heading{
-    line-height: 30px;
+    line-height: 50px;
     margin: 30px;
 }
 
@@ -136,6 +136,9 @@ p{
     background: #0D6F7C;
     transform: rotate(45deg);
     margin: 20px;
+    background-image: url(../img/railway.png);
+    background-size: 100% 100%;
+   
 }
 
 .icon-group{
